@@ -11,8 +11,9 @@ public class GameData
     public int[] stars = new int[8];
 
     public int audios;
+    // audio files initialized, as u c
     public float volume;
-
+// same same
     public GameData()
     {
         healths = 1;
